@@ -1,10 +1,10 @@
 # FunTown
 
-A lightweight guide to interesting events in Torino, Genova and Liguria.
+A lightweight guide to interesting events in Torino and Piedoment, Genova and Liguria.
 
 ## Pages
 
-- Torino: [index.html](index.html)
+- Torino: [torino.html](torino.html)
 - Genova & Liguria: [genova.html](genova.html)
 
 ## Publish

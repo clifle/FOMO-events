@@ -1,4 +1,4 @@
-# Events in Town
+# FunTown
 
 A lightweight, year-round guide to interesting events in Torino, Italy.
 

@@ -1,4 +1,4 @@
-# BeYou in Turin
+# Events in Town
 
 A lightweight, year-round guide to interesting events in Torino, Italy.
 

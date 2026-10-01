@@ -1,6 +1,6 @@
-# Torino Today
+# BeYou in Town : Torino
 
-A lightweight October 2026 events guide for Torino, Italy.
+A lightweight events guide for Torino, Italy.
 
 ## Publish
 

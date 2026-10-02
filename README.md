@@ -1,6 +1,6 @@
-# FunTown
+# FOMO
 
-A lightweight guide to interesting events in Torino and Piedoment, Genova and Liguria.
+A lightweight guide to interesting events in Torino and Piedmont, Genova and Liguria.
 
 ## Pages
 

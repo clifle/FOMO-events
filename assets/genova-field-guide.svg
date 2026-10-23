@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Genova, illustrated field guide</title>
+  <desc id="desc">The Lanterna overlooks Genova's colorful hillside streets and the old port.</desc>
+  <rect width="1200" height="600" fill="#e6f0ec"/>
+  <circle cx="951" cy="141" r="76" fill="#edc27d"/>
+  <path d="M0 327q174-155 343-72 146-148 308-26 172-114 326-5 111-63 223 0v223H0Z" fill="#91bdb4"/>
+  <path d="M0 368q129-49 270-1t277-8q126-40 247 14t231-11q105-35 175 0v238H0Z" fill="#024345"/>
+  <path d="M0 455q137-40 255 4t238-5q140-54 256 11t229-5q115-38 222 5" fill="none" stroke="#43aaa0" stroke-width="22" stroke-linecap="round"/>
+  <g>
+    <path d="M77 344h117v147H77z" fill="#d78162"/><path d="M206 318h131v173H206z" fill="#f2c878"/>
+    <path d="M351 347h112v144H351z" fill="#d7e2d3"/><path d="M475 294h142v197H475z" fill="#c26c58"/>
+    <path d="M630 330h125v161H630z" fill="#e6ae79"/><path d="M769 302h136v189H769z" fill="#d6d8c5"/>
+    <path d="M919 340h116v151H919z" fill="#cf7860"/><path d="M1048 322h92v169h-92z" fill="#ecc67e"/>
+  </g>
+  <g fill="#f6e9ce">
+    <path d="M91 365h23v34H91zm39 0h23v34h-23zm39 0h13v34h-13zM222 344h25v38h-25zm44 0h25v38h-25zm44 0h20v38h-20zM366 368h24v34h-24zm42 0h24v34h-24zm42 0h5v34h-5zM490 321h27v42h-27zm48 0h27v42h-27zm48 0h12v42h-12zM645 354h25v38h-25zm44 0h25v38h-25zm97-24h25v40h-25zm45 0h25v40h-25zm45 0h22v40h-22zM933 363h24v35h-24zm42 0h24v35h-24zm86-22h20v39h-20zm36 0h20v39h-20z"/>
+  </g>
+  <g fill="#024345">
+    <path d="M100 416h26v75h-26zm47 0h26v75h-26zm100 0h29v75h-29zm51 0h29v75h-29zm78 0h25v75h-25zm44 0h25v75h-25zm101 0h28v75h-28zm49 0h28v75h-28zm96 0h26v75h-26zm47 0h26v75h-26zm166 0h26v75h-26zm45 0h26v75h-26zm83 0h23v75h-23z"/>
+  </g>
+  <g>
+    <path d="M287 491V178h23v-19h7v-30l17-40 18 40v30h8v19h23v313z" fill="#f6e9ce"/>
+    <path d="M300 201h69v290h-69z" fill="#024345"/>
+    <path d="M308 214h53v18h-53zm0 39h53v18h-53zm0 39h53v18h-53zm0 39h53v18h-53zm0 39h53v18h-53zm0 39h53v18h-53zm0 39h53v18h-53z" fill="#e6f0ec"/>
+    <path d="M326 83h13v23h-13zm-17 25h47v12h-47z" fill="#024345"/>
+  </g>
+  <path d="M0 540h1200" stroke="#e6f0ec" stroke-width="5" opacity=".65"/>
+  <g fill="#024345"><circle cx="1058" cy="231" r="5"/><circle cx="1078" cy="219" r="3"/><circle cx="114" cy="275" r="5"/><circle cx="132" cy="265" r="3"/></g>
+</svg>

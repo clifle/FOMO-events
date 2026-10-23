@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Torino, illustrated field guide</title>
+  <desc id="desc">The Mole Antonelliana rises above Torino rooftops, the Alps and the curve of the Po.</desc>
+  <rect width="1200" height="600" fill="#e4eaff"/>
+  <circle cx="938" cy="157" r="81" fill="#f3bf70"/>
+  <path d="M0 321 122 226l68 58 137-142 118 125 91-87 161 142v211H0Z" fill="#9eb3f4"/>
+  <path d="m122 226 42 33-31-3 57 28-68-58Zm205-84 48 68-38-20 54 56-64-104Zm209 38 65 81-49-34 72 78-88-125Z" fill="#f8f7f0" opacity=".95"/>
+  <path d="M0 370q112-56 232-7t251-1q119-52 243 6t230-5q112-40 244 6v231H0Z" fill="#305cde"/>
+  <path d="M0 452q128-43 267-1t283 0q109-35 237 4t245-3q90-25 168 9v139H0Z" fill="#2449b8"/>
+  <path d="M0 515q188-43 356 2t327 2q116-36 233 4t284-2" fill="none" stroke="#9edbd1" stroke-width="18" stroke-linecap="round"/>
+  <g fill="#f3e5ca">
+    <path d="M60 359h188v132H60zM271 344h143v147H271zM428 364h192v127H428zM821 352h154v139H821zM987 369h152v122H987z"/>
+  </g>
+  <g fill="#305cde">
+    <path d="M70 382h34v42H70zm51 0h34v42h-34zm51 0h34v42h-34zm51 0h24v42h-24zM281 369h31v48h-31zm49 0h31v48h-31zm49 0h25v48h-25zM439 388h36v42h-36zm54 0h36v42h-36zm54 0h36v42h-36zm54 0h12v42h-12zM831 376h32v43h-32zm50 0h32v43h-32zm50 0h32v43h-32zm67 14h31v42h-31zm49 0h31v42h-31zm49 0h28v42h-28z"/>
+  </g>
+  <g fill="#f3bf70">
+    <path d="M78 442h25v49H78zm57 0h25v49h-25zm57 0h25v49h-25zm110 0h23v49h-23zm54 0h23v49h-23zm115 0h28v49h-28zm60 0h28v49h-28zm290 0h23v49h-23zm54 0h23v49h-23zm172 0h25v49h-25zm57 0h25v49h-25z"/>
+  </g>
+  <g fill="#173779">
+    <path d="M676 491V251h17v-36h9v-48l14-41 14 41v48h10v36h17v240z"/>
+    <path d="M687 257h54v234h-54z" fill="#f3e5ca"/>
+    <path d="M700 268h28v17h-28zm0 35h28v17h-28zm0 35h28v17h-28zm0 35h28v17h-28zm0 35h28v17h-28zm0 35h28v17h-28z" fill="#305cde"/>
+  </g>
+  <path d="M0 548h1200" stroke="#173779" stroke-width="6" opacity=".4"/>
+  <g fill="#173779"><circle cx="87" cy="208" r="5"/><circle cx="104" cy="196" r="3"/><circle cx="1117" cy="288" r="5"/><circle cx="1099" cy="278" r="3"/></g>
+</svg>

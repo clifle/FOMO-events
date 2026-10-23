@@ -85,6 +85,8 @@ button, input, select, textarea { caret-color: var(--fomo-accent); }
 .mobile-menu a:hover, .mobile-menu a[aria-current="page"] { color: var(--fomo-accent-deep); }
 .mobile-menu .mobile-add { padding: 7px 10px; border-radius: 6px; background: var(--fomo-accent); color: #fff; }
 .mobile-menu .mobile-add:hover { background: var(--fomo-accent-deep); color: #fff; }
+.mobile-menu .mobile-donate { padding: 7px 10px; border: 1px solid var(--fomo-line); border-radius: 6px; background: var(--fomo-surface); color: var(--fomo-ink); }
+.mobile-menu .mobile-donate:hover { border-color: var(--fomo-accent); color: var(--fomo-accent-deep); }
 .city-switch summary, .donate {
   border: 1px solid var(--fomo-line);
   border-radius: 7px;

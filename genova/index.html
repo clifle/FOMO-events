@@ -198,6 +198,12 @@ const events=[
 {"d":9,"m":"JAN","year":2027,"end":9,"endYear":2027,"title":"Il lago dei cigni · Astana Opera","cat":"Culture","time":"Sat, Jan 9, 2027 · 15:00 & 20:00","venue":"Teatro Carlo Felice","src":"Teatro Carlo Felice","url":"https://www.carlofelice.it/rassegna-stagione-opera-danza-musical-2026-27/"},
 {"d":10,"m":"JAN","year":2027,"end":10,"endYear":2027,"title":"Il lago dei cigni · Astana Opera","cat":"Culture","time":"Sun, Jan 10, 2027 · 15:00 & 20:00","venue":"Teatro Carlo Felice","src":"Teatro Carlo Felice","url":"https://www.carlofelice.it/rassegna-stagione-opera-danza-musical-2026-27/"},
 {"d":28,"m":"JAN","year":2027,"end":28,"endYear":2027,"title":"Beethoven 200_1 · Orchestra del Teatro Carlo Felice","cat":"Music","time":"Thu, Jan 28, 2027 · 20:00","venue":"Teatro Carlo Felice","src":"Teatro Carlo Felice","url":"https://www.carlofelice.it/rassegna-stagione-sinfonica-2026-2027/"}
+,
+{d:21,m:'NOV',end:21,title:'CRUNCH · 5how_music & imd.wav',cat:'Music',time:'Sat, Nov 21 · 22:00–02:00',venue:'Fela! Music Bar · Vico dietro il Coro di San Cosimo',src:'PartyNow · Fela!',url:'https://letspartynow.it/eventi/crunch-fela-music-bar---social-hub-21-novembre-2026?id=x7yBDNCsM'}
+,
+{d:28,m:'NOV',end:28,title:'VOLTZ à la Carte x FELA · 2 Years Anniversary',cat:'Music',time:'Sat, Nov 28 · 19:30–02:00',venue:'Fela! · Vico dietro il Coro di San Cosimo',src:'Resident Advisor · VOLTZadelic',url:'https://ra.co/events/2574942'}
+,
+{d:20,m:'DEC',end:20,title:'Discomerenda · Drop, alma & Aurora Delise',cat:'Music',time:'Sun, Dec 20 · 17:00',venue:'Fela! · Vico dietro il Coro di San Cosimo',src:'Il Secolo XIX · Tempo',url:'https://www.ilsecoloxix.it/cultura-e-spettacoli/news/tempo-a-genova-una-nuova-rassegna-sulla-musica-e-le-popolazioni-ritmiche-hkroaed0/'}
 ];let category='all';const list=document.querySelector('#listing');const monthIndex={JAN:0,FEB:1,MAR:2,APR:3,MAY:4,JUN:5,JUL:6,AUG:7,SEP:8,OCT:9,NOV:10,DEC:11};const today=new Date();today.setHours(0,0,0,0);function eventStart(e){return e.startDate?new Date(e.startDate+'T00:00:00'):new Date(e.year||2026,monthIndex[e.m],e.d)}function eventEnd(e){return e.endDate?new Date(e.endDate+'T00:00:00'):new Date(e.endYear||e.year||2026,monthIndex[e.endMonth||e.mEnd||e.m],e.end)}function dateBox(e){
 const s=eventStart(e),end=eventEnd(e),day=d=>String(d.getDate()).padStart(2,'0'),month=d=>new Intl.DateTimeFormat('en',{month:'short'}).format(d).toUpperCase(),year=d=>d.getFullYear();
 let out='<b>'+day(s)+'</b><small>'+month(s)+' '+year(s)+'</small>';
